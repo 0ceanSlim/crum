@@ -1,6 +1,8 @@
-# crawlr 🕷️
+# crum 🍞
 
-I crawl nostr relays
+Continuous Relay Uptime Monitoring
+
+A NIP-66 Bot
 
 ## License
 
